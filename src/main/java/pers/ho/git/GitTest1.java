@@ -13,5 +13,6 @@ public class GitTest1 {
         System.out.println("Hot-Fix.Test#####");
         System.out.println("Master.Test$$$$");
         System.out.println("PUSH Test$$$$");
+        System.out.println("PULL Test$$$$");
     }
 }
